@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(0, 128, 11);
+    width: 500px;
+    height: 300px;
+    margin-left: 300px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+input{
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid aqua;
+    background-color: rgb(72, 228, 202);
+    height: 20px;
+}
+select{
+    border-radius: 5px;
+    background-color: rgb(246, 250, 19);
+}
+button{
+    border-radius: 5px;
+    border: 1px solid aquamarine;
+    background-color: rgb(5, 200, 214);
+}
+label{
+    color: rgb(248, 246, 242);
+    margin-left: 30px;
+}
